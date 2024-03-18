@@ -1,0 +1,46 @@
+Assignment	-4
+
+Assignment3  	- 9,10
+
+Assignment2  	-5
+
+Assignments	-1,3
+
+18-Springjpa-MTM-app - 8
+
+
+============
+Assignments
+=============
+
+1) Develop Data JPA application to insert person data into db table.
+
+			person_id
+			person_name
+			person_gender
+			person_dob
+			person_photo
+			person_resume
+
+2) Develop data jpa application to call stored procedure
+
+3) Develop data jpa application to retrieve only emp_name and emp_salary details from employee_tbl	using custom query.		
+
+4) Insert employee records into table using custom generator..
+
+	(Ex: AIT1, AIT2, AIT3......)
+
+5) Develop data jpa application to retrieve emp data along with address using custom query.	
+
+6) Write SQL queries to create  PERSON_TBL & PASSPORT_TBL with one to one relationship.
+
+7) Write SQL queries to create EMPLOYEE_TBL & ADDRESS_TBL with One to Many Relationship.
+
+8) Implement Many To Many Relationship Example
+
+		Git Repo : https://github.com/ashokitschool/springboot_jpa_many_to_many_app.git
+
+
+9) Develop Spring Boot application to export database table data into excel file.		
+
+10) Develop Spring Boot application to export database table data into pdf file.
